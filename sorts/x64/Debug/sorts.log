@@ -1,0 +1,4 @@
+﻿  sorts.cpp
+D:\Moodle TSU\С++\Алгоритмы и структуры данных\first lab\No1\sorts\sorts\sorts.cpp(142,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Moodle TSU\С++\Алгоритмы и структуры данных\first lab\No1\sorts\sorts\sorts.cpp(143,9): warning C4101: 'size': unreferenced local variable
+  sorts.vcxproj -> D:\Moodle TSU\С++\Алгоритмы и структуры данных\first lab\No1\sorts\x64\Debug\sorts.exe
